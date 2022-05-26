@@ -111,3 +111,9 @@
   color: inherit;
 }
 
+.home-button:hover {
+  border: 1px solid;
+  border-radius: 5px;
+  transition: 0.4s;
+}
+
