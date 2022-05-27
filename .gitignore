@@ -101,3 +101,4 @@ iOSInjectionProject/
 .idea/scopes/scope_settings.xml
 .idea/workspace.xml
 .idea/vcs.xml
+.swiftpm/xcode/xcshareddata/
